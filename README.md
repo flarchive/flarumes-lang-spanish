@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of flarumes/lang-spanish.** Not for installation: use [Packagist](https://packagist.org/packages/flarumes/lang-spanish) or the [upstream repository](https://github.com/FlarumES/lang-spanish).
 
-**0** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
+**32** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2021-04-07 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.0) |
+| `1.0.1` | 2021-04-25 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.0.1) |
+| `1.1.0` | 2021-05-28 | `^1.0.0` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.1.0) |
+| `1.1.1` | 2021-06-21 | `^1.0.0` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.1.1) |
+| `1.1.2` | 2021-06-27 | `^1.0.0` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.1.2) |
+| `1.1.3` | 2021-08-25 | `^1.0.0` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.1.3) |
+| `1.1.4` | 2021-09-20 | `^1.0.0` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.1.4) |
+| `1.1.5` | 2021-10-15 | `^1.0.0` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.1.5) |
+| `1.1.6` | 2021-11-20 | `^1.0.0` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.1.6) |
+| `1.1.7` | 2021-12-10 | `^1.0.0` | [Browse](https://github.com/flarchive/flarumes-lang-spanish/tree/archive/v1.1.7) |
+
+[View all 32 versions](https://github.com/flarchive/flarumes-lang-spanish/tags)
 
 Catalog entry: [packages/flarumes-lang-spanish.json](https://github.com/flarchive/archive-index/blob/main/packages/flarumes-lang-spanish.json)
 
